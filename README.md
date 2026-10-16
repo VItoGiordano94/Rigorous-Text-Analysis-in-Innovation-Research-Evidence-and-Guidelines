@@ -10,10 +10,7 @@ What makes a text-analysis study rigorous? Our approach distinguishes four dimen
 
 The first figure presents the definitions of these dimensions, providing a common reference for assessing rigor throughout a text-analysis study.
 
-*Figure 1. Definitions of the dimensions of validity and reliability.*
-<!-- Once the figure is uploaded, replace the placeholder above with:
-![Definitions of statistical conclusion, internal, external, and construct validity, and of stability and reproducibility.](Image/Validity and Reliability classification.png)
--->
+https://github.com/VItoGiordano94/Rigorous-Text-Analysis-in-Innovation-Research-Evidence-and-Guidelines/blob/main/Image/Validity%20and%20Reliability%20classification.png
 
 *Figure 1. Definitions of the dimensions of validity and reliability used in the study.*
 
