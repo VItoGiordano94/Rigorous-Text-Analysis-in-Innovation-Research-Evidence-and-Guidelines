@@ -27,13 +27,9 @@ The dimensions of rigor that require particular attention depend on the research
 
 The second figure brings these elements together to show how rigor priorities vary across research contexts.
 
-> **[Insert Figure 2: Framework linking research objectives, text-modelling approaches, and customization to rigor priorities.]**
+![Framework for prioritizing rigor dimensions](Image/Priorities.png)
 
-<!-- Once the figure is uploaded, replace the placeholder above with:
-![Framework for identifying rigor priorities based on research objectives, text-modelling approaches, and whether the approach is customized.](figures/rigor-framework.png)
--->
-
-*Figure 2. Framework for prioritizing dimensions of validity and reliability according to the research objective, text-modelling approach, and whether the approach is customized.*
+*Figure 2. Rigor priorities according to research objectives, text-modelling approaches, and whether the approach is customized.*
 
 To apply the framework:
 
