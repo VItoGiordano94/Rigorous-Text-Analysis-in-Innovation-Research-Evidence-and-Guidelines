@@ -31,13 +31,6 @@ The second figure brings these elements together to show how rigor priorities va
 
 *Figure 2. Rigor priorities according to research objectives, text-modelling approaches, and whether the approach is customized.*
 
-To apply the framework:
-
-1. **Define the research objective** and the knowledge claim the analysis is intended to support.
-2. **Identify the text-modelling approach** and whether it is customized for the study.
-3. **Identify the relevant rigor priorities** using the framework.
-4. **Select and document suitable rigor strategies**, drawing on the repertoire of 23 strategies discussed in the paper.
-
 These priorities guide methodological choices; they do not remove the need to consider other dimensions of rigor or explain the trade-offs made in a particular study.
 
 ## Code, datasets, and article classifications
@@ -49,9 +42,3 @@ The repository provides:
 - **Article classifications** documenting the coding used in the review.
 
 Together, these resources allow readers to inspect the evidence underlying the paper, reproduce its analyses, and build on its findings.
-
-## Citation
-
-If you use these materials, please cite the accompanying paper:
-
-> [Authors]. ([Year]). *Rigorous Text Analysis in Innovation Research: Evidence and Guidelines*. [Publication details and DOI or URL].
